@@ -1,0 +1,38 @@
+body{
+    background: radial-gradient(circle, rgba(0,9,87,1) 0%, rgba(68,23,82,1) 50%, rgba(0,0,0,1) 100%);    
+    justify-items: center;
+}
+
+.container{
+    margin-top: 5%;
+    width: 70%;
+    text-align: center;
+    background: rgba(255,255,255, .6);
+
+    border-radius: 5%;
+    align-content: center ;
+    padding-bottom: 5%;
+}
+
+.dice{
+    color: #3A3960;
+    text-shadow: 2px 1px 1px rgba(0, 0, 0, 0.25);
+    display: inline-block;
+    justify-content: center;
+    width: 30%;
+}
+
+footer{
+    color: aliceblue;
+    padding: 20px;
+}
+
+img{
+    width: 100%;
+}
+
+h1{
+    color: #3A3960;
+    text-shadow: 2px 1px 1px rgba(0, 0, 0, 0.25);
+    font-size: 5rem;
+}
